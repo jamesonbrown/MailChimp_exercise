@@ -17,4 +17,4 @@ The `selenium-webdriver` ruby gem is required:
 * Run the following command:
 ```ruby -r "./about_page_test.rb" -e AboutPageTest.new.run_test```
 
-You should now see a `team_members.csv' file in the root folder of the repo that contains the name, position and description for each team member.
+You should now see a `leadership_team.csv' file in the root folder of the repo that contains the name, position and description for each team member.
